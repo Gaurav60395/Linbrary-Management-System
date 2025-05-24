@@ -1,0 +1,25 @@
+# Maven build directory
+/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+
+# Java
+*.class
+hs_err_pid*
+replay_pid*
